@@ -1,0 +1,251 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 22, 2015, 8:52:50 AM
+    Author     : abc
+*/
+#bcg{
+    background-color: white;
+}
+#mb{
+    margin-top: 0px;
+    background-image: url("");
+    background-color: white;
+}
+#left_logo{
+    //position: absolute;
+    //margin-top: 40px;
+    //margin-left: 40px;
+    float: left;
+}
+#right_logo{
+    //position: relative;
+    //margin-top: 40px;
+    //margin-left: 1125px;
+    float: right;
+}
+#header{
+    //position: relative;
+    //margin-top:-75px;
+    //text-align: center;
+    font-size: 60px;
+    color:red;
+    font-family: Times New Roman;
+}
+#usn{
+    position: absolute;
+    margin-left: 12%;
+    margin-top: 200px;
+    color:blue;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+#pwd{
+    position: absolute;
+    margin-left: 12%;
+    margin-top: 275px;
+    color:blue;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+#smt{
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 400px;
+    height:37.5px;
+    width:150px;
+    background-color:#00ff00;
+    border-color:greenyellow;
+    border-radius: 15px;
+    border-width: 3.5px;
+    border-spacing: 5px;
+    color:black;
+    font-family: Calibri;
+    font-weight: normal;
+    font-size:25px;
+}
+#head{
+    text-align: center;
+    color:blue;
+    font-family:Times New Roman;
+}
+#hb{
+    height:40px;
+    width:40px;
+    margin-right: 35px;
+}
+#ins{
+    font-family: Calibri;
+    font-size: 25px;
+    color:black;
+}
+b{
+    color: red;
+}
+input.nt{
+    height:35px;
+    width:150px;
+    background-color: violet;
+    border-color:greenyellow;
+    border-radius: 15px;
+    border-width: 3.5px;
+    border-spacing: 5px;
+    color:black;
+    font-family: Comic Sans MS;
+    font-weight: normal;
+    font-size:22px;
+}
+#tx{
+    position: relative;
+    font-family: Times New Roman;
+    font-size: 20px;
+    color:black;
+    margin-bottom: 45px;
+}
+a.st:hover{
+    background-color: white;
+    color:crimson;
+    text-decoration: none;
+}
+#u_err{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 41%;
+    margin-top: 13.5%;
+    font-family: Calibri;
+    font-size: 25px;
+}
+#p_err{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 42.5%;
+    margin-top: 19.5%;
+    font-family: Calibri;
+    font-size: 25px;
+}
+a:hover{
+    color:white;
+    background-color: blue;
+}
+#dept_lgn:hover{
+    color:red;
+    background-color: blue;
+}
+#admn_lgn:hover{
+    color:red;
+    background-color: blue;
+}
+#usn_ea{
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 300px;
+    color:blue;
+    font-family: Calibri;
+    font-size: 25px;
+    font-weight: normal;
+}
+#pwd_ea{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 292.5px;
+    color:blue;
+    font-family: Calibri;
+    font-size: 25px;
+}
+#smt_ea{
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 400px;
+    height:37.5px;
+    width:150px;
+    background-color: #00ff00;
+    border-color:greenyellow;
+    border-radius: 15px;
+    border-width: 3.5px;
+    border-spacing: 5px;
+    color:black;
+    font-family: Calibri;
+    font-weight: normal;
+    font-size:27px;
+}
+#u_err_ea{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 575px;
+    margin-top: 265px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+#p_err_ea{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 575px;
+    margin-top: 355px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+#usn_ed{
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 300px;
+    color:blue;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+#pwd_ed{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 292.5px;
+    color:blue;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+#smt_ed{
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 400px;
+    height:35px;
+    width:150px;
+    background-color: violet;
+    border-color:greenyellow;
+    border-radius: 15px;
+    border-width: 3.5px;
+    border-spacing: 5px;
+    color:black;
+    font-family: Comic Sans MS;
+    font-weight: normal;
+    font-size:22px;
+}
+#u_err_ed{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 575px;
+    margin-top: 265px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+#p_err_ed{
+    position: absolute;
+    color:red;
+    text-align: center;
+    margin-left: 575px;
+    margin-top: 355px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
